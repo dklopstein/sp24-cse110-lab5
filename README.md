@@ -2,6 +2,11 @@
 
 Derek Klopstein
 
+[expose](https://dklopstein.github.io/sp24-cse110-lab5/expose.html)
+
+[explore](https://dklopstein.github.io/sp24-cse110-lab5/explore.html)
+
+
 Part 3:
 
 1. Probably not. One con of unit testing is that we cannot test how the individual components interact with each other. So in this case I don't think we're able to run a unit test between two different users, only individual things as a single user.
